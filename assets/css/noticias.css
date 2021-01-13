@@ -1,0 +1,12 @@
+.bordas-laterais{
+    border: 1px solid black;
+}
+
+.arredondado{
+    border-radius: 70px;
+    border-top-left-radius:70px; 
+}
+
+.rodape li{
+    border: none;
+}
